@@ -1,0 +1,2 @@
+SELECT avg (Ave_Age_of_Mother) as avg_age_of_mother FROM `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_abnormal_conditions` 
+
